@@ -1,4 +1,4 @@
-ConvertCsv2ql
+ConvertCsv2Sql
 ====
 Convert CSV Data to SQL
 
@@ -21,7 +21,7 @@ dotnet build -c Release
 - execute dotnet run
 ```sh
 dotnet run 
-<Input CSV file path>>
+<Input CSV file path>
 ```
 
 - `.sql` file output to `out` directory.
