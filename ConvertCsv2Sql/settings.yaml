@@ -1,0 +1,4 @@
+table: tablename
+columns:
+  - column1
+  - column2
